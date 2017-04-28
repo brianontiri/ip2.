@@ -1,0 +1,81 @@
+img{
+  display: block;
+  margin-left:auto;
+}
+img{
+  display: block;
+  margin-right: auto;
+}
+.heading{
+  background-image: url(landing.jpg);
+  text-align: center;
+  color: white;
+  font-size: 45px;
+  font-style: italic;
+  font-family: cursive;
+  height:500px;
+}
+.breakfast{
+  background-image: url(breakfast.jpg);
+  text-align: inherit;
+  font-style:italic;
+  font-family:fantasy;
+  text-align: center;
+  height: 100px;
+  width:400px;
+
+}
+.lunch{
+  background-image: url(lunch.jpg);
+  text-align: inherit;
+  font-style:italic;
+  font-family:fantasy;
+  text-align: center;
+  height: 100px;
+  width: 400px;
+}
+.dinner{
+  background-image: url(dinner.jpg);
+  text-align: inherit;
+  font-style:italic;
+  font-family:fantasy;
+  text-align: center;
+  height: 100px;
+}
+.happyhour{
+  text-align: inherit;
+  color:white;
+  font-size:20px;
+  font-style:italic;
+  font-family:fantasy;
+  margin-bottom: 0px;
+  background-color: gray;
+  text-align: center;
+  height:50px;
+  width: 330px;
+  height:10px
+  margin-top: 0px;
+
+}
+.partytime{
+  text-align: inherit;
+  color:white;
+  font-size:20px;
+  font-style:italic;
+  font-family:fantasy;
+  background-color:e83f0b;
+  text-align: center;
+  height:50px;
+  width: 330px;
+}
+p{
+color: white;
+text-align: center;
+font-style: italic;
+font-size-adjust:10px;
+font-size: 20px;
+}
+#fastfood{
+float: left;
+height:250px;
+}
