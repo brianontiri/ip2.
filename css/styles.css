@@ -163,23 +163,31 @@
 
   .dri {
     margin-left: 200px;
+    margin-right: -100px;
 
   }
   .all{
     margin-top: 80px;
-    margin-left: 30px;
+    margin-left: 80px;
 
   }
 
   .dro {
-    margin-left: 700px;
-    margin-top: 20px;
+    margin-left: 580px;
+    margin-top: 70px;
+    font-style: normal;
+  }
+  .all-drink{
+    margin-top: 100px;
+    margin-left: 80px;
+    margin-right: -70px;
   }
 
   .ft {
     margin-left: 100px;
-    padding: 20px;
+    padding: 40px;
     box-shadow: 0px 0px;
+
   }
 
   .bottom {
@@ -190,7 +198,7 @@
 
 
   .drk {
-    margin-top: 10px;
+    margin-top: 60px;
     box-shadow: 1px 5px 5px 1px;
     margin-left: 50px;
     padding: -15px;
@@ -266,6 +274,7 @@
   .cu {
     color: orange;
     margin-left: 400px;
+    mar
   }
 
   .ri {
@@ -275,7 +284,7 @@
 
   .fi {
     text-align: center;
-    margin-right: 200px;
+    margin-right: 100px;
   }
 
   .ip {
@@ -295,9 +304,10 @@
 
   .si {
     margin-right: 20px;
-    margin-left: 0px;
+    margin-left: 50px;
     text-align: center;
     padding-right: 10px;
+    padding-bottom: 10px;
   }
 
   .i {
@@ -313,6 +323,8 @@
     background-size: cover;
     height: 300px;
     padding: 20px;
+    margin-left: -30px;
+    margin-right: -29px;
   }
 
   .row {
@@ -401,24 +413,24 @@
 .end{
   background-color: #FF4500;
   height: 250px;
-  margin-top: -20px;
-  margin-left: -15px;
-  margin-right: -15px;
+  margin-top: -40px;
+  margin-left: -45px;
+  margin-right: -45px;
 }
 .logo{
-  margin-left: 500px;
+  margin-left: 510px;
   padding: 20px;
   color: white;
 }
 .pl{
-  margin-right: 50px;
+  margin-right: 110px;
 }
 .re{
-  margin-right: 65px;
+  margin-right: 130px;
   padding-top: 10px;
 }
 .media{
-  margin-left: 520px;
+  margin-left: 550px;
 }
 #image-holder {
   background: white;
@@ -473,8 +485,60 @@
 .redish {
   color: #EB5315 ;
 }
-.chini{
+#types{
+  background-image: url(foodsBg.jpg);
+  height: 500px;
+  margin-top: 20px;
+}
+
+#customers {
+  height: 400px;
+  background: white;
+  text-align: center;
+}
+
+#customer-section {
+  margin-top: 5%;
+  margin-left: 100px;
+  margin-right: 100px;
+  box-shadow: 1px 1px 1px 1px #888888 ;
+  border-radius: 5px;
+}
+
+#happy-customers {
+  border-right: 1px solid #888888 ;
+  margin-top: 2%;
+}
+
+#img-border {
+  box-shadow: 1px 1px 1px 1px #888888 ;
+  border-radius: 5px;
+  border: 13px solid white
+}
+
+.redish {
+  color: #EB5315 ;
+}
+.script{
   height: 500px;
   background-image: url(foodsBg.jpg);
-  margin-top: 0px;
+  margin-top: 30px;
+}
+.image1{
+  margin-right: -70px
+}
+.image2{
+  margin-left: 10px;
+
+}
+.image3{
+  margin-left: -50px;
+
+}
+.text{
+  padding-left: -200px;
+  padding-right: -1000px;
+}
+#dr{
+  padding-right: 50px;
 }
